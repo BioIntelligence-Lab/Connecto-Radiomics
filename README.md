@@ -68,5 +68,5 @@ Note: Reference the `test_run` folder for example output and the `parameters.jso
 | sep_segment_nifti.py| separates the segmented nifti file into individual nifti files for each label|
 |make_pyradiomics_input_csvs.py |makes a CSV file to be inputed in to the pyradiomics tool |
 |clean_pyrad_results.py | clean the pyradiomics results to include relevant columns and remove n/a values|
-|connectomics.py |completes all conneectomics analysis|
+|connectomics.py |completes all connectomics analysis|
 
