@@ -1,0 +1,6 @@
+Image,Mask
+/home/ichaudry/um2ii-radcon/test_run/raw_data/9397988_base_10147806_0_0000.nii.gz,/home/ichaudry/um2ii-radcon/test_run/segmentations/sep_labels/9397988_base_10147806_0_label_4.nii.gz
+/home/ichaudry/um2ii-radcon/test_run/raw_data/9531528_base_10251712_0_0000.nii.gz,/home/ichaudry/um2ii-radcon/test_run/segmentations/sep_labels/9531528_base_10251712_0_label_4.nii.gz
+/home/ichaudry/um2ii-radcon/test_run/raw_data/9485359_48_12498503_0_0000.nii.gz,/home/ichaudry/um2ii-radcon/test_run/segmentations/sep_labels/9485359_48_12498503_0_label_4.nii.gz
+/home/ichaudry/um2ii-radcon/test_run/raw_data/9539084_base_10116606_0_0000.nii.gz,/home/ichaudry/um2ii-radcon/test_run/segmentations/sep_labels/9539084_base_10116606_0_label_4.nii.gz
+/home/ichaudry/um2ii-radcon/test_run/raw_data/9431280_base_10387105_0_0000.nii.gz,/home/ichaudry/um2ii-radcon/test_run/segmentations/sep_labels/9431280_base_10387105_0_label_4.nii.gz

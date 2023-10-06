@@ -1,0 +1,28 @@
+{
+    "segmentation_separation":{
+        "source_dir":"/home/ichaudry/um2ii-radcon/test_run/raw_data", 
+        "dest_dir":"/home/ichaudry/um2ii-radcon/test_run/segmentations",
+        "segmentation_nifit_seg_path":"/home/ichaudry/um2ii-radcon/test_run/segmentations/sep_labels",
+        "num_segmentations":6
+    },
+
+    "radiomics":{
+        "dir":"/home/ichaudry/um2ii-radcon/test_run/radiomics",
+        "thread_count":30
+    },
+
+    "connectomics":{
+        "dir":"/home/ichaudry/um2ii-radcon/test_run/connectomics",
+        "two_tailed_filtering_level":15
+    },
+
+    "feature_dict":{
+        "1": "Femur",
+        "2": "Femoral Cartilage",
+        "3": "Tibia",
+        "4": "Tibial Cartilage",
+        "5": "Medial Meniscus",
+        "6": "Lateral Meniscus"
+    }
+
+}
