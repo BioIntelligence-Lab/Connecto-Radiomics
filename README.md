@@ -43,7 +43,7 @@ Note: Reference the `test_run` folder for example output and the `parameters.jso
 ### Settings JSON file
 |Parameter | Description |
 |---|---|
-|segmentation_separation |  |
+|segmentation_separation|  |
 |source_dir | path to raw images in nifti format |
 |dest_dir | path where segmentations should be stored |
 |segmentation_nifit_seg_path | path where nifti files for each individual segmentation should be stored |
