@@ -1,4 +1,4 @@
-# um2ii-radcon
+# Connecto-Radiomics
 
 ## A pipeline for radiomics informed connectomics.
 
